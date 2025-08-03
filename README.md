@@ -1,2 +1,1 @@
-# cropdata
-provide market data
+Removed content from README.md
